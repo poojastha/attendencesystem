@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223725127823",
+    "firebase_url": "https://attendance-efc1c.firebaseio.com",
+    "project_id": "attendance-efc1c",
+    "storage_bucket": "attendance-efc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223725127823:android:5b1026910053bb96",
+        "android_client_info": {
+          "package_name": "com.attendence.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223725127823-9k5unedk9flv6ili6fka666lj5kpohub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWPHsGxyPl7UZYh8VZ0HwojXoOZIYksM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223725127823-9k5unedk9flv6ili6fka666lj5kpohub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
